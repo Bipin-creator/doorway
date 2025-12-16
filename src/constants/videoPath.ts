@@ -1,0 +1,1 @@
+export const LANDING_VIDEO1 = "/video/MAU-WEB-OVERVIEW.mp4"
